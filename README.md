@@ -1,6 +1,6 @@
 # z
 
-**z** - A simple CLI tool for encoding and decoding strings.
+cli tool for encoding and decoding strings
 
 ## Installation
 
